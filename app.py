@@ -1,4 +1,4 @@
-pip install streamlit yfinance pyngrok scikit-learn tensorflow --quiet
+pip install streamlit yfinance pyngrok scikit-learn tensorflow
 import streamlit as st
 import yfinance as yf
 import pandas as pd
